@@ -1,0 +1,6 @@
+com.example.kierowca2.test.app-androidTest-0 /Users/HyperSoft/Android/kierowca2/app/build/generated/res/resValues/androidTest/debug
+com.example.kierowca2.test.app-mergeDebugAndroidTestResources-1 /Users/HyperSoft/Android/kierowca2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.kierowca2.test.app-mergeDebugAndroidTestResources-2 /Users/HyperSoft/Android/kierowca2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.kierowca2.test.app-debugAndroidTest-3 /Users/HyperSoft/Android/kierowca2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.kierowca2.test.app-core-1.7.0-4 /Users/dabramkin/.gradle/caches/8.13/transforms/1621cccab7a030bf549ab37852ff7383/transformed/core-1.7.0/res
+com.example.kierowca2.test.app-tracing-1.2.0-5 /Users/dabramkin/.gradle/caches/8.13/transforms/fc5d49b32d4e568d71cd1165e8dbf893/transformed/tracing-1.2.0/res

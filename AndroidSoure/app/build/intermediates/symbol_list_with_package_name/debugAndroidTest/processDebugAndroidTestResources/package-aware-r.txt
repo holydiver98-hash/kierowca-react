@@ -1,0 +1,3 @@
+com.example.kierowca2.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

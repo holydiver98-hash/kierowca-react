@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/graphite_dark"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="32dp">
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/label_agency" android:textStyle="bold"
+            android:textColor="@color/text_secondary"/>
+
+        <Spinner
+            android:id="@+id/spinnerAgency"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/label_route_type" android:layout_marginTop="16dp" android:textStyle="bold"
+            android:textColor="@color/text_secondary"/>
+
+        <Spinner
+            android:id="@+id/spinnerRouteType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/label_route" android:layout_marginTop="16dp" android:textStyle="bold"
+            android:textColor="@color/text_secondary"/>
+
+        <Spinner
+            android:id="@+id/spinnerRoute"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/label_brigade" android:layout_marginTop="16dp" android:textStyle="bold"
+            android:textColor="@color/text_secondary"/>
+
+        <Spinner
+            android:id="@+id/spinnerBrigade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="Day of week (Schedule)" android:layout_marginTop="16dp" android:textStyle="bold"
+            android:textColor="@color/text_secondary"/>
+
+        <Spinner
+            android:id="@+id/spinnerDayOfWeek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <Button
+            android:id="@+id/btnShowTrips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_show_trips"
+            android:layout_marginTop="24dp"
+            android:backgroundTint="@color/graphite_accent"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+</ScrollView>

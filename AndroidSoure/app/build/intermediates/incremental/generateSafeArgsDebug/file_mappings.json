@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.example.kierowca2.screens.TripPickerFragmentDirections","com.example.kierowca2.screens.TripPickerFragmentArgs","com.example.kierowca2.screens.RouteMapFragmentArgs","com.example.kierowca2.screens.SettingsFragmentDirections","com.example.kierowca2.screens.FiltersFragmentDirections"]}]
